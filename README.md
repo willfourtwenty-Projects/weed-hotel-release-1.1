@@ -3,7 +3,7 @@
 Welcome to Weed Hotel, a retro Habbo game client!
 
 ## Overview
-Weed Hotel is a nostalgic recreation of the classic Habbo experience, offering a space for users to socialize, build rooms, and engage in various activities within the virtual world. This release, Version 1.0, encapsulates the initial launch of our retro game client.
+Weed Hotel is a nostalgic recreation of the classic Habbo experience, offering a space for users to socialize, build rooms, and engage in various activities within the virtual world. This release, Version 1.1, encapsulates the initial launch of our retro game client.
 
 ## Features
 - **Retro Interface:** Experience the classic Habbo environment reminiscent of the early days.
